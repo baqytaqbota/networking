@@ -67,7 +67,3 @@ extension AlbumsViewController: UITableViewDelegate, UITableViewDataSource {
     }
 }
 
-extension AlbumsViewController {
-
-}
-
